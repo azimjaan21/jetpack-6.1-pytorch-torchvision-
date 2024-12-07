@@ -41,6 +41,9 @@ Set up a Python virtual environment (recommended):
 
 ### 2️⃣ Install PyTorch
 
+![image](https://github.com/user-attachments/assets/61af225d-1693-4004-b46a-74120236a980)
+
+
 Download the compatible PyTorch wheel from NVIDIA:
 https://developer.nvidia.com/embedded/downloads
 
