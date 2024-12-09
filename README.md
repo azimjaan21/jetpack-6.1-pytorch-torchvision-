@@ -121,6 +121,9 @@ Update setuptools and pip:
 
     pip install --upgrade pip setuptools
 
+## + Extra Link to Download Latest Packages:
+http://jetson.webredirect.org/jp6/cu126
+
 ## 🎉 Conclusion
 
 Follow this guide to efficiently set up PyTorch and TorchVision on JetPack 6.1, leveraging the full potential of NVIDIA Jetson Orin AGX for AI/ML projects. Save and share this guide with others to streamline their setup process. Happy coding! 🚀
